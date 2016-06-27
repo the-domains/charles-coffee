@@ -1,14 +1,26 @@
-layout_spectrum: 0.2704140511341393
-typography_spectrum: 0.5466618393547833
+layout_spectrum: 0.3297872
+name: Charles' Coffee
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
   brandStrength: 0.379025106318295
-  lightness: 0.7558921920135617
   saturation: 0.7990343985147774
-  rhythmicContrast: 0.6555577975232154
   brandColors:
     - '#004358'
     - '#1F8A70'
     - '#BEDB39'
     - '#FFE11A'
     - '#FD7400'
-name: Charles' Coffee
+  lightness: 0.7558921920135617
+  rhythmicContrast: 0.6555577975232154
+typography_spectrum: 0.5466618393547833
