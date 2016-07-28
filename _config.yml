@@ -1,4 +1,4 @@
-typography_spectrum: 0.5466618393547833
+typography_spectrum: 0.762082964880392
 color:
   brandStrength: 0.379025106318295
   saturation: 0.7990343985147774
@@ -10,7 +10,7 @@ color:
     - '#FD7400'
   lightness: 0.7558921920135617
   rhythmicContrast: 0.6555577975232154
-layout_spectrum: 0.3297872
+layout_spectrum: 0.7741455396171659
 author:
   name: Charles Baker
   email: charlesabaker2010@gmail.com
