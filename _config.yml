@@ -1,5 +1,17 @@
+typography_spectrum: 0.5466618393547833
+color:
+  brandStrength: 0.379025106318295
+  saturation: 0.7990343985147774
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+  lightness: 0.7558921920135617
+  rhythmicContrast: 0.6555577975232154
 layout_spectrum: 0.3297872
-name: Charles' Coffee
+name: Good Soil Coffee
 collections:
   - index:
       navigable: true
@@ -12,16 +24,5 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  brandStrength: 0.379025106318295
-  saturation: 0.7990343985147774
-  brandColors:
-    - '#004358'
-    - '#1F8A70'
-    - '#BEDB39'
-    - '#FFE11A'
-    - '#FD7400'
-  lightness: 0.7558921920135617
-  rhythmicContrast: 0.6555577975232154
-typography_spectrum: 0.5466618393547833
 title: Good Soil Coffee
+description: Taste matters.
