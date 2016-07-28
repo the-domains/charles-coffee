@@ -11,6 +11,9 @@ color:
   lightness: 0.7558921920135617
   rhythmicContrast: 0.6555577975232154
 layout_spectrum: 0.3297872
+author:
+  name: Charles Baker
+  email: charlesabaker2010@gmail.com
 name: Good Soil Coffee
 collections:
   - index:
