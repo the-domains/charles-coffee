@@ -17,6 +17,10 @@ author:
   name: Charles Baker
   email: charlesabaker2010@gmail.com
 name: Good Soil Coffee
+navigation:
+  - name: Try some Coffee!
+    id: e9fd1cb6-3559-4bfe-a643-b590a0668837
+    type: content
 collections:
   - index:
       navigable: true
