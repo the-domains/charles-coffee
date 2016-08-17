@@ -1,8 +1,7 @@
 ---
-datePublished: '2016-07-28T00:29:54.650Z'
+datePublished: '2016-08-17T17:07:32.382Z'
 sourcePath: >-
   _posts/2016-06-29-charlesbaker213-i-will-roast-coffee-and-send-it-to-you-for.md
-isBasedOnUrl: 'https://www.fiverr.com/s2/2427923d9d'
 keywords:
   - fiverr
   - password
@@ -29,7 +28,7 @@ related:
       https://secure.gravatar.com/avatar/f35d391becee38736b67d4423885cea7?s=60&d=mm&r=pg
     thumbnail_width: 60
 author: []
-dateModified: '2016-07-28T00:29:54.000Z'
+dateModified: '2016-08-17T17:07:31.900Z'
 title: $5 for Roasted Coffe
 app_links:
   - should_fallback: 'false'
@@ -51,10 +50,9 @@ publisher:
 description: 'I will roast the coffee. Your job: Enjoy.'
 inLanguage: en
 via: {}
+hasPage: true
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
+url: dollar5-for-roasted-coffe/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
